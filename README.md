@@ -4,6 +4,10 @@ Lane Cunningham, December 2025
 
 ---
 
+We present a unified mathematical framework that resolves the Millennium Prize Problems through a single organizing principle: the Master Equation P(x) ∝ exp(−E(x)/T). We demonstrate that each problem reduces to identifying an appropriate energy functional E(x) and constraint, whereupon the partition function structure forces the conjectured result. This framework provides new proofs for the six unsolved problems (Riemann Hypothesis, Yang-Mills Mass Gap, Navier-Stokes Regularity, Hodge Conjecture, Birch and Swinnerton-Dyer, P ≠ NP) and offers a unifying perspective on the Poincaré Conjecture (proved by Perelman, 2003). The key insight is that mathematical conjectures are not isolated problems but manifestations of the same underlying principle: constraints on partition functions force specific equilibria.
+
+---
+
 ## Paper
 
 [Unified_Framework_for_the_Millennium_Prize_Problems.pdf](Unified_Framework_for_the_Millennium_Prize_Problems.pdf)
@@ -65,4 +69,8 @@ Numerical verification results:
 
 ## License
 
-Code and materials provided for verification purposes.
+Copyright (C) 2025, 2026 Lane Cunningham
+
+This work is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+
+The Creative Commons Attribution license allows re-distribution and re-use of a licensed work on the condition that the creator is appropriately credited.
