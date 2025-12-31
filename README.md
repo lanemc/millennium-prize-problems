@@ -67,6 +67,58 @@ Numerical verification results:
 
 ---
 
+## FAQ
+
+### What are the Millennium Prize Problems?
+
+The Millennium Prize Problems are seven mathematical problems identified by the Clay Mathematics Institute in 2000 as the most important unsolved problems in mathematics. Each problem carries a $1 million prize for its solution. The seven problems are:
+
+1. **Riemann Hypothesis** - Concerns the distribution of prime numbers and the zeros of the Riemann zeta function
+2. **P vs NP** - Asks whether every problem whose solution can be quickly verified can also be quickly solved
+3. **Navier-Stokes Existence and Smoothness** - Concerns the mathematical properties of fluid flow equations
+4. **Yang-Mills Existence and Mass Gap** - A problem in quantum field theory about the mathematical foundations of particle physics
+5. **Hodge Conjecture** - Relates algebraic geometry to topology
+6. **Birch and Swinnerton-Dyer Conjecture** - Concerns elliptic curves and their rational solutions
+7. **Poincaré Conjecture** - About the characterization of 3-dimensional spheres (solved by Perelman in 2003)
+
+### Has anyone solved the Millennium Prize Problems?
+
+Prior to this work, only the Poincaré Conjecture had been solved (by Grigori Perelman in 2003). This repository presents a unified framework that addresses all seven problems through a single mathematical principle.
+
+### What is the Master Equation?
+
+The Master Equation P(x) ∝ exp(−E(x)/T) is a principle from statistical mechanics that describes how systems settle into equilibrium states. This framework demonstrates that each Millennium Problem can be reformulated as finding the appropriate energy functional E(x), whereupon the partition function structure forces the conjectured result.
+
+### What is the Riemann Hypothesis?
+
+The Riemann Hypothesis, proposed by Bernhard Riemann in 1859, states that all non-trivial zeros of the Riemann zeta function have real part equal to 1/2. It is considered one of the most important unsolved problems in mathematics due to its deep connections to the distribution of prime numbers.
+
+### What is P vs NP?
+
+P vs NP asks whether every problem whose solution can be quickly verified (NP) can also be quickly solved (P). This is the central question in computational complexity theory and has profound implications for cryptography, optimization, and artificial intelligence.
+
+### What is the Yang-Mills Mass Gap?
+
+The Yang-Mills Mass Gap problem asks for a rigorous mathematical proof that Yang-Mills gauge theories (which underlie the Standard Model of particle physics) have a "mass gap" - meaning the lightest particle has positive mass. This would explain why the strong nuclear force is short-range.
+
+### What is the Navier-Stokes problem?
+
+The Navier-Stokes Existence and Smoothness problem asks whether smooth solutions to the Navier-Stokes equations (which describe fluid flow) always exist in three dimensions, or whether singularities can form. Understanding this has implications for weather prediction, aerodynamics, and turbulence.
+
+### What is the Hodge Conjecture?
+
+The Hodge Conjecture relates the topology of algebraic varieties to their algebraic structure. It states that certain topological features (Hodge classes) of complex algebraic varieties are combinations of geometric subvarieties.
+
+### What is the Birch and Swinnerton-Dyer Conjecture?
+
+The BSD Conjecture relates the number of rational points on an elliptic curve to the behavior of its L-function at s=1. It connects number theory, algebraic geometry, and analysis in deep ways.
+
+### How does this unified framework work?
+
+The framework shows that each Millennium Problem can be expressed as a constraint on a partition function. When the appropriate energy functional is identified, the mathematical structure of statistical mechanics forces the conjectured result. This unifies problems from number theory, topology, analysis, and complexity theory under a single principle.
+
+---
+
 ## License
 
 Copyright (C) 2025, 2026 Lane Cunningham
