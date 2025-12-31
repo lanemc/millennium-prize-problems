@@ -4,6 +4,10 @@ Lane Cunningham, December 2025
 
 [Meet the inventor](https://www.lanecunningham.com/) | [See the gallery](https://www.millennium-prize-problems.com/)
 
+✨ CELEBRATING 100 YEARS OF QUANTUM MECHANICS ✨
+
+1925 – 2025 · From Heisenberg's Matrix Mechanics to the Master Equation
+
 ---
 
 We present a unified mathematical framework that resolves the Millennium Prize Problems through a single organizing principle: the Master Equation P(x) ∝ exp(−E(x)/T). We demonstrate that each problem reduces to identifying an appropriate energy functional E(x) and constraint, whereupon the partition function structure forces the conjectured result. This framework provides new proofs for the six unsolved problems (Riemann Hypothesis, Yang-Mills Mass Gap, Navier-Stokes Regularity, Hodge Conjecture, Birch and Swinnerton-Dyer, P ≠ NP) and offers a unifying perspective on the Poincaré Conjecture (proved by Perelman, 2003). The key insight is that mathematical conjectures are not isolated problems but manifestations of the same underlying principle: constraints on partition functions force specific equilibria.
