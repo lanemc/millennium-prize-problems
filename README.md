@@ -18,7 +18,7 @@ We present a unified mathematical framework that resolves the Millennium Prize P
 
 [Unified_Framework_for_the_Millennium_Prize_Problems.pdf](Unified_Framework_for_the_Millennium_Prize_Problems.pdf)
 
-[Submitted to Annals of Mathematics](https://annals.math.princeton.edu/)
+[Manuscript Submitted to Annals of Mathematics](https://annals.math.princeton.edu/)
 
 ## Repository Structure
 
